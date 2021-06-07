@@ -8,7 +8,7 @@ Software: Python 3.7.6
 Libraries: Pandas, Matplotlib
 
 ## Results
-In this we look at the 
+The analysis of the ride share data gives us the following results summary
 Ride-sharing summary
 - Total Rides
 - Total Drivers
@@ -17,13 +17,13 @@ Ride-sharing summary
 - Average Fare per Driver
 PyBer Fare Summary
 - Total Fare by City type for the months of Jan - Apr for the year 2019
-- 
+
 #### Ride-sharing Summary
 The following are the observations from the ride-sharing summary below
 - The number of drivers in rural and suburban areas are very low compared to urban cities.
 - The average fare per ride is more expensive for rural and suburban areas (10$ more rural and 6$ more for suburbs).
 - The average fare per driver is around 22$ more for suburbs and 40$ more for rural areas
-- 
+
 ![image](https://github.com/vijayabme/PyBer_Analysis/blob/main/analysis/PyBer_RideSharing_Summary.png)
 
  
