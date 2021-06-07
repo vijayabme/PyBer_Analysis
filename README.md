@@ -9,13 +9,13 @@ Libraries: Pandas, Matplotlib
 
 ## Results
 The analysis of the ride share data gives us the following results summary
-Ride-sharing summary
+###### Ride-sharing summary
 - Total Rides
 - Total Drivers
 - Total Fares
 - Average Fare per Ride
 - Average Fare per Driver
-PyBer Fare Summary
+###### PyBer Fare Summary
 - Total Fare by City type for the months of Jan - Apr for the year 2019
 
 #### Ride-sharing Summary
