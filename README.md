@@ -24,7 +24,7 @@ The following are the observations from the ride-sharing summary below
 - The average fare per ride is more expensive for rural and suburban areas (10$ more rural and 6$ more for suburbs).
 - The average fare per driver is around 22$ more for suburbs and 40$ more for rural areas
 - 
-![image]()
+![image](https://github.com/vijayabme/PyBer_Analysis/blob/main/analysis/PyBer_RideSharing_Summary.png)
 
  
 #### PyBer Fare Summary
