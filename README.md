@@ -20,6 +20,7 @@ The analysis of the ride share data gives us the following results summary
 
 #### Ride-sharing Summary
 The following are the observations from the ride-sharing summary below
+- The total rides in urban areas are way higher than rural and suburbs.
 - The number of drivers in rural and suburban areas are very low compared to urban cities.
 - The average fare per ride is more expensive for rural and suburban areas (10$ more rural and 6$ more for suburbs).
 - The average fare per driver is around 22$ more for suburbs and 40$ more for rural areas compared to urban cities.
